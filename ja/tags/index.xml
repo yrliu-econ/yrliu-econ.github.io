@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YITU LIU</title>
+    <link>https://example.com/ja/tags/</link>
+    <description>Recent content in Tags on YITU LIU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>https://example.com/ja/tags/demo/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/demo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://example.com/ja/tags/shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/shortcode/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://example.com/ja/tags/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>https://example.com/ja/tags/redirecturl/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://example.com/ja/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://example.com/ja/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://example.com/ja/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/markdown/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://example.com/ja/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/privacy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://example.com/ja/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/shortcodes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://example.com/ja/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/text/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://example.com/ja/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/emoji/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>عربي</title>
+      <link>https://example.com/ja/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://example.com/ja/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/thumbnail/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/ja/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
