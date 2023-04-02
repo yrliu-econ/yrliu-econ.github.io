@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on YITU LIU</title>
+    <title>syntax on Website of Liu Yiru</title>
     <link>https://example.com/ja/categories/syntax/</link>
-    <description>Recent content in syntax on YITU LIU</description>
+    <description>Recent content in syntax on Website of Liu Yiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ja/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/ja/post/markdown-syntax/</link>
+      <link>https://example.com/ja/chinese/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ja/post/markdown-syntax/</guid>
+      <guid>https://example.com/ja/chinese/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/ja/japanese/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/japanese/post/markdown-syntax/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       

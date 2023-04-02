@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>privacy on YITU LIU</title>
+    <title>privacy on Website of Liu Yiru</title>
     <link>https://example.com/ja/tags/privacy/</link>
-    <description>Recent content in privacy on YITU LIU</description>
+    <description>Recent content in privacy on Website of Liu Yiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ja/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/ja/post/rich-content/</link>
+      <link>https://example.com/ja/chinese/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ja/post/rich-content/</guid>
+      <guid>https://example.com/ja/chinese/post/rich-content/</guid>
+      
+        <description>A brief description of Hugo Shortcodes</description>
+      
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://example.com/ja/japanese/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/japanese/post/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       

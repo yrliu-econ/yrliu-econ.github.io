@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Website of Liu Yiru</title>
+    <link>https://example.com/ja/chinese/portfolio/</link>
+    <description>Recent content in Portfolio on Website of Liu Yiru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/ja/chinese/portfolio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>demo on YITU LIU</title>
+    <title>demo on Website of Liu Yiru</title>
     <link>https://example.com/ja/tags/demo/</link>
-    <description>Recent content in demo on YITU LIU</description>
+    <description>Recent content in demo on Website of Liu Yiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/ja/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Notice Shortcode</title>
-      <link>https://example.com/ja/post/notice-shortcode/</link>
+      <link>https://example.com/ja/chinese/post/notice-shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/ja/post/notice-shortcode/</guid>
+      <guid>https://example.com/ja/chinese/post/notice-shortcode/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
+    </item>
+    
+    <item>
+      <title>The Notice Shortcode</title>
+      <link>https://example.com/ja/japanese/post/notice-shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/ja/japanese/post/notice-shortcode/</guid>
       
         <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
       
@@ -20,10 +31,21 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://example.com/ja/post/figure-shortcode/</link>
+      <link>https://example.com/ja/chinese/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/ja/post/figure-shortcode/</guid>
+      <guid>https://example.com/ja/chinese/post/figure-shortcode/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/ja/japanese/post/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/ja/japanese/post/figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       

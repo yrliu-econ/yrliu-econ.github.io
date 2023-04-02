@@ -1,17 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on YITU LIU</title>
+    <title>index on Website of Liu Yiru</title>
     <link>https://example.com/ja/tags/index/</link>
-    <description>Recent content in index on YITU LIU</description>
+    <description>Recent content in index on Website of Liu Yiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://example.com/ja/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://example.com/ja/post/</link>
+      <link>https://example.com/ja/chinese/post/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/ja/post/</guid>
+      <guid>https://example.com/ja/chinese/post/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/ja/english/economy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/english/economy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/ja/english/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/english/food/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/ja/english/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/english/photography/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/ja/english/post/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ja/english/post/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/ja/japanese/post/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/ja/japanese/post/</guid>
       
         <description></description>
       
